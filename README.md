@@ -1,6 +1,6 @@
 # DIND 
 
-How to build docker image in Buddy
+How to build docker image in Buddy, kurwa
 
 ## License
 
