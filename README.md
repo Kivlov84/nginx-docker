@@ -1,6 +1,6 @@
 # DIND 
 
-How to build docker image in Buddy, kurwa
+How to build docker image in Buddy, kurwa mac
 
 ## License
 
